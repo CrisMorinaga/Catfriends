@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Catfriends/static/css/main.bbbebe5b.css",
+    "main.js": "/Catfriends/static/js/main.4f70a265.js",
+    "static/js/787.23e3530d.chunk.js": "/Catfriends/static/js/787.23e3530d.chunk.js",
+    "static/media/Meows.ttf": "/Catfriends/static/media/Meows.8eaa7eb79f1926228f3d.ttf",
+    "index.html": "/Catfriends/index.html",
+    "main.bbbebe5b.css.map": "/Catfriends/static/css/main.bbbebe5b.css.map",
+    "main.4f70a265.js.map": "/Catfriends/static/js/main.4f70a265.js.map",
+    "787.23e3530d.chunk.js.map": "/Catfriends/static/js/787.23e3530d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbebe5b.css",
+    "static/js/main.4f70a265.js"
+  ]
+}
