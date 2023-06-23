@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Meows font';
+    src: url('Meows.ttf');
+}
+
+h1 { 
+    font-family: 'Meows font';
+    font-weight: 200;
+    color: rgb(255, 255, 255);
+}
