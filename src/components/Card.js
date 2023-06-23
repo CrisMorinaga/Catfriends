@@ -1,7 +1,7 @@
-import React from "react"; // We need this import otherwise our program wont understands JSX synthax
+import React from "react"; // We need this import otherwise our program won't understands JSX synthax
 import './Card.css'
 
-const Card = ({name, email, id}) => { // We pass the properties on the function to use it
+const Card = ({name, email, id}) => { // We pass the parameters on the function to use it
     return (
         <>
             <div id="card" className="tc dib br3 pa3 ma2 grow bw2 shadow-5">
